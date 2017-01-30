@@ -1,0 +1,27 @@
+{
+  "name": "hotpocket",
+  "version": "0.0.1",
+  "description": "A secure pocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluemathsoftware/hotpocket.git"
+  },
+  "keywords": [
+    "Security",
+    "Privacy"
+  ],
+  "author": "Jayesh Salvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluemathsoftware/hotpocket/issues"
+  },
+  "homepage": "https://github.com/bluemathsoftware/hotpocket#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "read": "^1.0.7"
+  }
+}
